@@ -1,2 +1,2 @@
 # Hackathon
-Repo for hackathon demo
+Repository for hackathon demo
