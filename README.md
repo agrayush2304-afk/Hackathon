@@ -1,2 +1,2 @@
 # Hackathon
-Repository for AuxoAI hackathon demo
+Github Repository for AuxoAI hackathon demo
